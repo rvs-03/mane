@@ -9,8 +9,8 @@ from aiogram.fsm.storage.memory import MemoryStorage
 import database as db
 
 # ========== НАСТРОЙКИ ==========
-TOKEN = "ВАШ_ТОКЕН_БОТА"          # Замените на токен от @BotFather
-ADMIN_ID = 123456789               # Ваш Telegram ID (узнайте у @userinfobot)
+TOKEN = "8880226145:AAEwZutZYKMNB8VgIHiZpvaxt8A8DJGh_7s"          # Замените на токен от @BotFather
+ADMIN_ID = 1546393339               # Ваш Telegram ID (узнайте у @userinfobot)
 PROMASTER_ID = 987654321           # Telegram ID прораба
 
 # ========== ИНИЦИАЛИЗАЦИЯ ==========
